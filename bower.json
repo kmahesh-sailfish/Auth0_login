@@ -1,0 +1,17 @@
+{
+  "name": "untitled4",
+  "authors": [
+    "kmahesh-sailfish <maheshvrsecit@gamil.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

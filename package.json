@@ -1,0 +1,11 @@
+{
+  "name": "untitled4",
+  "version": "1.0.0",
+  "description": "Use [ui-router](https://github.com/angular-ui/ui-router) with Auth0 Angular.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
